@@ -1,5 +1,8 @@
 # STGMagazine
-온라인 남성 의류 쇼핑몰 10개를 크롤링한 사이트
+온라인 남성 의류 쇼핑몰들을 크롤링한 사이트
+
+Developement Stack
+Jsp/Servlet, HTML, CSS, Jquery, Jsoup, Sitemesh
 
 사이트 링크 : http://johnmor.cafe24.com/views/main.do 
 
