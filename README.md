@@ -4,7 +4,7 @@
 Developement Stack
 Jsp/Servlet, HTML, CSS, Jquery, Jsoup, Sitemesh
 
-사이트 링크(크롬에 최적화 되어 있습니다) : http://johnmor.cafe24.com/views/main.do 
+사이트 링크(크롬에 최적화 되어 있습니다) : http://johnmor.cafe24.com/STG/views/main.do
 
 <img src='http://drive.google.com/uc?export=view&id=1uS2Lc6opIr_X7ZQ8X_BOS1bqhu6tQaz5' /><br>
 
